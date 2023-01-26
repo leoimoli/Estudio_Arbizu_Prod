@@ -1,0 +1,408 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-color: #212529;
+    font-family: gotham, gotham-light, gotham-medium;
+    font-weight: 300;
+    display: grid;
+    min-height: 100vh;
+    grid-template-rows: auto 1fr auto;
+
+}
+
+body {
+    min-height: 200vh;
+}
+
+.bg-nav {
+    background: rgb(33 37 41);
+    transition: 0.5s;
+}
+
+.navbar-default {
+    transition: 500ms ease;
+    background: transparent;
+}
+
+.navbar-default.scrolled {
+    background: #000;
+}
+
+.logo img {
+    height: 40px;
+}
+
+.hero {
+    color: #fefefe;
+}
+
+.hero div {
+    padding: 5rem;
+}
+
+.hero div h2 {
+    color: #37BBED;
+}
+
+.btn {
+    font-weight: 300;
+}
+
+.btn-primary {
+    background-color: #37BBED;
+    border-color: #37BBED;
+    ;
+}
+
+.circle {
+    background-color: #cecece;
+    opacity: 0.1;
+    border-radius: 50%;
+    height: 1200px;
+    width: 1200px;
+    position: absolute;
+    top: -95%;
+    left: -20%;
+    z-index: -1;
+}
+
+.circle2 {
+    background-color: #cecece;
+    opacity: 0.1;
+    border-radius: 50%;
+    height: 1200px;
+    width: 1200px;
+    position: absolute;
+    top: -105%;
+    left: -20%;
+    z-index: -1;
+}
+
+.nav-link {
+    color: #fefefe;
+    padding: 0.2rem 1rem;
+}
+
+.nav-link:hover {
+    color: #cfcfcf;
+}
+
+.nav-pills .nav-link.active,
+.nav-pills .show>.nav-link {
+    background-color: transparent;
+    border-bottom: 3px solid #37bbed;
+    border-radius: 0px;
+}
+
+.titulo {
+        /* transform: skew(35deg); */
+        background-color: #D9D9D9;
+        margin-top: 3rem;
+        border-radius: 30px;
+        padding: 9px 9px 3px 25px;
+}
+
+.titulo2 {
+    background-color: #212529;
+    color: #D9D9D9;
+    margin-top: 3rem;
+    border-radius: 30px;
+    padding: 9px 9px 3px 25px;
+}
+
+.titulo3{
+    background-color: #212529;
+    color: #D9D9D9;
+    margin-top: 3rem;
+    border-radius: 30px;
+    padding: 4px 9px 4px 9px;
+    width: 100%;
+    text-align: center;
+}
+
+section {
+    padding-top: 20px;
+    padding-bottom: 150px;
+}
+
+/*---------------------BOTONES SISTEMAS--------------------*/
+.contBtnSis {
+    min-width: 20%;
+    margin-top: 75px;
+}
+
+.btnSis {
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    line-height: 95px;
+    margin: auto;
+    /* transition-duration: 0.4s;
+    transition-timing-function: ease-out; */
+}
+
+.btnSis:hover {
+    opacity: 0.7;
+    cursor: pointer;
+}
+
+.btnSis img {
+    width: 80%;
+}
+
+.btnSis h4 {
+    color: #fefefe;
+    font-weight: 300;
+    font-size: 1.1rem;
+    margin-top: 1rem;
+}
+
+.sivia {
+    background-color: #FBD15B;
+}
+
+.sinalic {
+    background-color: #37BBED;
+}
+
+.sinai {
+    background-color: #606BF1;
+}
+
+.siniestros {
+    background-color: #FF8578;
+}
+
+.sisconact {
+    background-color: #78FF9E;
+}
+
+.sisrepo {
+    background-color: #EE60F1;
+}
+
+.lintiEmpresas {
+    background-color: #5BD5FB;
+}
+
+.siscore {
+    background-color: #71ED37;
+}
+
+.linti {
+    background-color: #F4FF78;
+}
+
+.registroMotos {
+    background-color: #7886FF;
+}
+
+.sicervs {
+    background-color: #b574e7;
+}
+
+.sim {
+    background-color: #5BFBD5;
+}
+
+.renatedu {
+    background-color: #F16083;
+}
+
+.sicam {
+    background-color: #4CCC60;
+}
+
+.denuncias {
+    background-color: #E77536;
+}
+
+.siprep {
+    background-color: #985BFB
+}
+
+.lintiHospitales {
+    background-color: #37BBED;
+}
+
+.fiscalizar {
+    background-color: #EE4E4E;
+}
+
+.separador img {
+    width: 100%;
+}
+
+.bg-gris {
+    background-color: #e6e6e6;
+}
+
+/*--------- FORM------------*/
+.form-label {
+    color: #d9d9d9;
+}
+
+.form-control,
+.form-select {
+    display: block;
+    width: 100%;
+    padding: 0.375rem 0.75rem;
+    /* font-size: 1rem; */
+    font-weight: 300;
+    /* line-height: 1.5; */
+    color: #687077;
+    background-color: #424242;
+    background-clip: padding-box;
+    border: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    border-radius: 0px;
+    transition: border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+}
+
+.form-control:focus,
+.form-select:focus {
+    background-color: #424242;
+    border-bottom: 2px solid green;
+    box-shadow: none;
+    color: #d1d1d1;
+}
+
+.select-focus{
+    background-color: #424242;
+    border-bottom: 2px solid green;
+    box-shadow: none;
+    color: #d1d1d1;
+}
+
+input:not(:placeholder-shown),
+textarea:not(:placeholder-shown) {
+    background-color: #424242;
+    border-bottom: 2px solid green;
+    box-shadow: none;
+    color: #d1d1d1;
+}
+
+/*   
+  input:placeholder-shown {
+    border-color: red;
+  } */
+
+.form-select:checked {    
+    border-bottom: 2px solid green;
+} 
+
+textarea {
+    min-height: 150px !important;
+}
+  
+.footer {
+    background-color: black;
+    overflow: hidden;
+    bottom: 0;
+    width: 100%
+    
+}
+
+.FFoter {
+    font-weight: bold;
+    color: #555;
+}
+
+
+
+.modCustom{
+    position: relative;
+    /* width: 100%; */
+    /* height: 100vh; */
+    top: -40px;
+    /* transform: translateY(-85%);*/
+}
+
+.modCustom div{
+    width: 450px;
+    background-color: aliceblue;
+    z-index: 9999;
+    margin: auto;
+    padding: 38px;
+    font-size: 0.85rem;
+}
+
+.options{
+    display: none
+}
+
+
+
+
+/* -------------------  CREAR ---------------------- */
+
+.iconModal{
+    width: 400px !important;
+    height: 390px !important;
+    position: fixed;
+    top: 18%;
+    /* left: 35%; */
+    z-index: 9999;
+    font-size: 0.9rem;
+    box-shadow: 3px 7px 5px #121212; 
+    animation: zoomIn; /* referring directly to the animation's @keyframe declaration */
+    animation-duration: 0.5s; /* don't forget to set a duration! */
+    
+    top: 18%;
+    border-radius: 1rem;
+}
+
+.iconModal h4{
+    font-size: 1.8rem;
+    color: #191918;
+    font-weight: 400;
+    margin-top: 0px;
+}
+
+.iconModal img{
+    width: auto !important;
+}
+
+.iconModal:hover{
+    opacity: 1;
+    cursor: auto;
+}
+
+.iconModal p{
+    line-height: initial;
+    width: 80%;
+    margin: auto;
+    margin-top: 25px;
+    font-weight: 400;
+}
+
+.modal-content{
+    border-radius: 1rem;
+    border-radius: 1rem;
+}
+
+.modal-header{
+    background-color: #37bbed;
+    color: #fefefe;
+    border-top-right-radius: 1rem;
+    border-top-left-radius: 1rem;
+}
+
+#modal-head{
+    color:#2a2a2a;
+}
+
+.modal-body{
+    background-color: #eceaea;
+}
+
+.modal-footer{
+    border-bottom-right-radius: 1rem;
+    border-bottom-left-radius: 1rem;
+    background-color: #eceaea;
+}
