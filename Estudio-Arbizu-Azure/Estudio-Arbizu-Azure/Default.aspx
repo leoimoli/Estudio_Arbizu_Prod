@@ -266,6 +266,56 @@
                     </div>
                 </div>
             </div>
+            <!--NOTICIA 0-->
+            <div class="row post">
+                <div class="main_content">
+                    <div class="post-thumbnail col-md-5">
+                        <div class="frame">
+                            <div class="post-format">
+                                <span class="icon-picture">
+                                    <i class="fa fa-laptop"></i>
+                                </span>
+                            </div>
+                            <a href="https://servicioscf.afip.gob.ar/publico/sitio/contenido/novedad/ver.aspx?id=1985">
+                                <img class="img-responsive" src="img/Noticias/Afip-FalsoEmail.png" alt="" /></a>
+                        </div>
+                        <img class="hidden-xs post-shadow" src="img/post-shadow.png" alt="" />
+                    </div>
+                    <div class="post-excerpt col-md-7">
+                        <h2 class="title"><a href="#">Pedidos falsos de información personal</a></h2>
+                        <div class="line-dotted"></div>
+                        <p>
+                            Está circulando por correo electrónico y por las redes sociales información falsa sobre vencimientos de la clave fiscal mediante la cual se solicitan datos personales de contribuyentes.
+                          <a href="https://servicioscf.afip.gob.ar/publico/sitio/contenido/novedad/ver.aspx?id=1985">...Leer Más</a>
+                        </p>
+                        <div class="line-dotted"></div>
+                        <p class="meta">
+                            <strong>Fecha:</strong> 27/Enero/2023 <strong>Por:</strong> Romina Arbizu <strong>Enlace: </strong><a href="https://servicioscf.afip.gob.ar/publico/sitio/contenido/novedad/ver.aspx?id=1985">Afip</a>
+                        </p>
+                        <div class="line-dotted"></div>
+                        <!--<div class="post-share">
+                            <p>Share this post:</p>
+                            <ul>
+                                <li>
+                                    <a href="#" data-toggle="tooltip" title="Contact with Facebook" class="team-facebook">
+                                        <i class="fa fa-facebook"></i>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="#" data-toggle="tooltip" title="Contact with Twitter" class="team-twitter">
+                                        <i class="fa fa-twitter"></i>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="#" data-toggle="tooltip" title="Contact with Google-plus" class="team-google-plus">
+                                        <i class="fa fa-google-plus"></i>
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>-->
+                    </div>
+                </div>
+            </div>
             <!--NOTICIA 1-->
             <div class="row post">
                 <div class="main_content">
@@ -288,11 +338,11 @@
                             El Gobierno informó esta semana las nuevas escalas para el Monotributo a partir de 2023: la tabla comenzará a correr a partir del mes entrante, y en base a ésta se realizará la próxima recategorización entre el 1° y el 20 de enero.
                             La actualización implica un aumento del 33,58% en el techo de cada una de las categorías y de los ingresos máximos para acceder y mantenerse en el régimen. Un índice que no se actualizaba desde julio 2022 y que, en general, se mantuvo por debajo de la inflación anual.
                            
-                            <a href="#">...Leer Más</a>
+                            <a href="https://www.afip.gob.ar/monotributo/documentos/categorias/monotributo-categorias-valores-vigentes.pdf">...Leer Más</a>
                         </p>
                         <div class="line-dotted"></div>
                         <p class="meta">
-                            <strong>Fecha:</strong> 4/Enero/2022 <strong>Por:</strong> Romina Arbizu <strong>Enlace: </strong><a href="https://www.afip.gob.ar/monotributo/documentos/categorias/monotributo-categorias-valores-vigentes.pdf">Afip</a>
+                            <strong>Fecha:</strong> 4/Enero/2023 <strong>Por:</strong> Romina Arbizu <strong>Enlace: </strong><a href="https://www.afip.gob.ar/monotributo/documentos/categorias/monotributo-categorias-valores-vigentes.pdf">Afip</a>
                         </p>
                         <div class="line-dotted"></div>
                         <!--<div class="post-share">
@@ -343,11 +393,11 @@
                         <p>
                             De acuerdo a la página oficial del organismo, “una vez finalizado el año calendario en el que se produjo la percepción, [los contribuyentes] podrán solicitar la devolución”. Para poder hacerlo, es necesario cumplir una serie de requisitos, como estar exento del tributo, poseer clave fiscal nivel 2 o más y tener una cuenta bancaria declarada.
                            
-                            <a href="#">...Leer Más</a>
+                            <a href="https://www.lanacion.com.ar/economia/dolar/dolar-ahorro-y-tarjeta-como-pedir-la-devolucion-de-las-percepciones-del-35-a-la-afip-nid02012023/">...Leer Más</a>
                         </p>
                         <div class="line-dotted"></div>
                         <p class="meta">
-                            <strong>Fecha:</strong> 4/Enero/2022 <strong>Por:</strong> Romina Arbizu <strong>Enlace: </strong><a href="https://www.lanacion.com.ar/economia/dolar/dolar-ahorro-y-tarjeta-como-pedir-la-devolucion-de-las-percepciones-del-35-a-la-afip-nid02012023/">Noticia</a>
+                            <strong>Fecha:</strong> 4/Enero/2023 <strong>Por:</strong> Romina Arbizu <strong>Enlace: </strong><a href="https://www.lanacion.com.ar/economia/dolar/dolar-ahorro-y-tarjeta-como-pedir-la-devolucion-de-las-percepciones-del-35-a-la-afip-nid02012023/">Noticia</a>
                         </p>
                         <div class="line-dotted"></div>
                     </div>
@@ -377,30 +427,16 @@
                             La Administración Federal de Ingresos Públicos (AFIP) publicó en su sitio web los nuevos valores de autónomos desde diciembre 2022 que incluyen un aumento del 15,62%.
                             De esta manera, en lo que va de este año 2022 los trabajadores autónomos han sufrido un aumento del 72,48% en los aportes que deben ingresar mensualmente al fisco en carácter de aportes y contribuciones a la seguridad social.
                            
-                            <a href="#">...Leer Más</a>
+                          <a href="https://www.afip.gob.ar/autonomos/">...Leer Más</a>
                         </p>
                         <div class="line-dotted"></div>
                         <p class="meta">
-                            <strong>Fecha:</strong> 4/Enero/2022 <strong>Por:</strong> Romina Arbizu <strong>Enlace: </strong><a href="https://www.afip.gob.ar/autonomos/">Afip</a>
+                            <strong>Fecha:</strong> 4/Enero/2023 <strong>Por:</strong> Romina Arbizu <strong>Enlace: </strong><a href="https://www.afip.gob.ar/autonomos/">Afip</a>
                         </p>
                         <div class="line-dotted"></div>
                     </div>
                 </div>
             </div>
-            <!--NOTICIA 4-->
-            <%--   <div class="row">
-                <div class="col-md-6 col-md-offset-3 text-center">
-                    <ul class="pagination">
-                        <li class="disabled"><a href="#">&gt;&gt;</a></li>
-                        <li class="active"><a href="#">1 <span class="sr-only">(current)</span></a></li>
-                        <li><a href="#">2</a></li>
-                        <li><a href="#">3</a></li>
-                        <li><a href="#">4</a></li>
-                        <li><a href="#">5</a></li>
-                        <li><a href="#">>></a></li>
-                    </ul>
-                </div>
-            </div>--%>
         </div>
         <!-- container -->
     </section>
@@ -483,37 +519,13 @@
                     </div>
                 </div>
             </div>
-            <!--<div class="row">
-                <div class="col-md-6 col-md-offset-3 text-center">
-                    <ul class="socials-icons">
-                        <li>
-                            <a href="#" data-toggle="tooltip" title="Share in Facebook" class="facebook"><i class="fa fa-facebook"></i></a>
-                        </li>
-                        <li>
-                            <a href="#" data-toggle="tooltip" title="Share in Twitter" class="twitter"><i class="fa fa-twitter"></i></a>
-                        </li>
-                        <li>
-                            <a href="#" data-toggle="tooltip" title="Share in Google +" class="google-plus"><i class="fa fa-google-plus"></i></a>
-                        </li>
-                        <li>
-                            <a href="#" data-toggle="tooltip" title="Share in Instagram" class="instagram"><i class="fa fa-instagram"></i></a>
-                        </li>
-                        <li>
-                            <a href="#" data-toggle="tooltip" title="Share in Pinterest" class="pinterest"><i class="fa fa-pinterest"></i></a>
-                        </li>
-                        <li>
-                            <a href="#" data-toggle="tooltip" title="Connect with Skype" class="skype"><i class="fa fa-skype"></i></a>
-                        </li>
-                    </ul>
-                </div>
-            </div>-->
         </div>
         <div class="row">
             <div class="col-md-6 col-md-offset-3 text-center">
                 <ul class="socials-icons" style="padding-top: 0px">
                     <li>
                         <div style="min-width: 100px">
-                            <img src="img/Noticias/Logo-Estudio.png" />
+                            <img class="img-responsive" src="img/Noticias/Logo-Estudio.png" />
                         </div>
                     </li>
                     <li>
@@ -524,29 +536,29 @@
                         </div>
                         <div style="padding-top: 0px">
                             <ol class="text-left">
-                                <li type="none">
+                                <li type="none" style="font-size: 12px">
                                     <img src="img/Telefono.png" />
                                     2215408088</li>
                             </ol>
                             <ol class="text-left">
                                 <li type="none">
-                                    <img src="img/Telefono.png" />
-                                    2215230402</li>
+                                    <%-- <img src="img/Telefono.png" />
+                                    2215230402</li>--%>
                             </ol>
                         </div>
                     </li>
                     <li></li>
                     <li>
                         <div style="min-width: 100px">
-                            <p style="padding-left: 30px">
+                            <p style="padding-left: 0px">
                                 <b>¿Tenes Consultas?</b>
                             </p>
                         </div>
-                        <div style="padding-top: 0px">
+                        <div style="padding-top: 0px; padding-left: 0px;">
                             <ol class="text-left">
-                                <li type="none" style="padding-top: 0px">
+                                <li type="none" style="padding-top: 0px; padding-left: 0px; font-size: 12px">
                                     <img src="img/Email.png" />
-                                    rominarbizu@hotmail.com</li>
+                                    estudioarbizu@gmail.com</li>
                             </ol>
                             <ol class="text-left">
                                 <li type="none" style="padding-top: 0px">
@@ -565,7 +577,7 @@
     <section id="footer" class="main-footer">
         <div class="row">
             <div class="logo text-center">
-              <%--  <h2>Estudio Contable Arbizu</h2>--%>
+                <%--  <h2>Estudio Contable Arbizu</h2>--%>
             </div>
         </div>
         <div class="row">

@@ -34,8 +34,8 @@ namespace Estudio_Arbizu_Azure
 
             string firmaEmail = ConfigurationManager.AppSettings["FIRMA_EMAIL"];
             string CuentaEmail = ConfigurationManager.AppSettings["CUENTA_EMAIL"];
-
-            string Destinatario = "leoimoli@gmail.com";
+          
+            string Destinatario = ConfigurationManager.AppSettings["CUENTA_EMAIL"];
             string ApellidoNombre = txtNombre.Value;
             string CuerpoEmail = "Desde la cuenta de Email: '" + txtEmail.Value + "' <br>  Estimada Contadora: Mi nombre es '" + ApellidoNombre + "',  '" + txtMensaje.Value + "'";
             string Pass = ConfigurationManager.AppSettings["CLAVE_EMAIL"]; ;
