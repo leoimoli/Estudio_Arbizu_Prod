@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Home Page" Language="C#" AutoEventWireup="true" CodeBehind="Default.aspx.cs" Inherits="Estudio_Arbizu_Azure._Default" %>
+﻿<%@ Page Title="Arbizu Estudio Contable" Language="C#" AutoEventWireup="true" CodeBehind="Default.aspx.cs" Inherits="Estudio_Arbizu_Azure._Default" %>
 
 <%--<%@ Page Language="C#" AutoEventWireup="true" MasterPageFile="~/Site.Master"  CodeBehind="Default.aspx.cs" Inherits="Estudio_Arbizu_Azure.InicioWF" %>--%>
 <!DOCTYPE html>
@@ -6,9 +6,11 @@
 <head runat="server">
     <title>Estudio Contable Arbizu</title>
     <!-- meta -->
+
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- css -->
+    <link rel="shortcut icon" type="image/png" href="img/Logo-HomePage.png"/>
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="css/ionicons.min.css">
     <link rel="stylesheet" href="css/font-awesome.min.css">

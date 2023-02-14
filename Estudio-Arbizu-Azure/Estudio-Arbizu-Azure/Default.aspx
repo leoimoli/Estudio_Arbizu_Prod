@@ -10,7 +10,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- css -->
-    <link rel="shortcut icon" type="image/png" href="img/Logo-HomePage.png"/>
+    <link rel="shortcut icon" type="image/png" href="img/Logo-HomePage.png" />
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="css/ionicons.min.css">
     <link rel="stylesheet" href="css/font-awesome.min.css">
@@ -265,6 +265,38 @@
                         <p>Lo que tenes que saber.</p>
                         <hr class="full">
                         <br />
+                    </div>
+                </div>
+            </div>
+            <!--NOTICIA -1-->
+            <div class="row post">
+                <div class="main_content">
+                    <div class="post-thumbnail col-md-5">
+                        <div class="frame">
+                            <div class="post-format">
+                                <span class="icon-picture">
+                                    <i class="fa fa-laptop"></i>
+                                </span>
+                            </div>
+                            <a href="https://servicioscf.afip.gob.ar/publico/sitio/contenido/novedad/ver.aspx?id=1961">
+                                <img class="img-responsive" src="img/Noticias/Afip-DeducionGastosEducativos.png" alt="" /></a>
+                        </div>
+                        <img class="hidden-xs post-shadow" src="img/post-shadow.png" alt="" />
+                    </div>
+                    <div class="post-excerpt col-md-7">
+                        <h2 class="title"><a href="#">Deducción de gastos educativos</a></h2>
+                        <div class="line-dotted"></div>
+                        <p>
+                            AFIP habilito la posibilidad de deducir del impuesto a las ganancias los servicios prestados por establecimientos educacionales públicos y/o privados incorporados a los planes de enseñanza oficial, de todos los niveles y grados, y los de postgrado para egresados de los niveles secundario, terciario o universitario, así como a los servicios de refrigerio, de alojamiento y de transporte accesorios a los anteriores, prestados directamente por dichos establecimientos con medios propios o ajenos.
+                            Entre los servicios con fines educativos también se cuenta a las clases dadas a título particular sobre materias incluidas en los planes de enseñanza oficial, impartidas fuera de los establecimientos educacionales aludidos en el párrafo anterior y con independencia de estos, y a las guarderías y jardines materno-infantiles.
+Las herramientas con fines educativos, por su parte, son definidas como los útiles escolares, los guardapolvos y los uniformes.
+                         <%-- <a href="https://servicioscf.afip.gob.ar/publico/sitio/contenido/novedad/ver.aspx?id=1961">...Leer Más</a>--%>
+                        </p>
+                        <div class="line-dotted"></div>
+                        <p class="meta">
+                            <strong>Fecha:</strong> 14/Febrero/2023 <strong>Por:</strong> Romina Arbizu <strong>Enlace: </strong><a href="https://servicioscf.afip.gob.ar/publico/sitio/contenido/novedad/ver.aspx?id=1961">Afip</a>
+                        </p>
+                        <div class="line-dotted"></div>
                     </div>
                 </div>
             </div>

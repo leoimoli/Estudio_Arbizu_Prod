@@ -8,6 +8,7 @@
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
+    <meta name="google-site-verification" content="A01BafPpI5-LhcIhh4Yq7QXSz8OuVwTtuI2tb6QdYPA" />
     <title>Estudio Contable Arbizu</title>
     <!-- meta -->
     <meta charset="UTF-8">
