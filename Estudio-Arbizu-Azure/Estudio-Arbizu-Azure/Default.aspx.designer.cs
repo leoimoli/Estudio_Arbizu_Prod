@@ -7,11 +7,13 @@
 // </generado automáticamente>
 //------------------------------------------------------------------------------
 
-namespace Estudio_Arbizu_Azure {
-    
-    
-    public partial class _Default {
-        
+namespace Estudio_Arbizu_Azure
+{
+
+
+    public partial class _Default
+    {
+
         /// <summary>
         /// Control txtNombre.
         /// </summary>
@@ -20,7 +22,7 @@ namespace Estudio_Arbizu_Azure {
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
         protected global::System.Web.UI.HtmlControls.HtmlInputText txtNombre;
-        
+
         /// <summary>
         /// Control txtEmail.
         /// </summary>
@@ -29,7 +31,7 @@ namespace Estudio_Arbizu_Azure {
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
         protected global::System.Web.UI.HtmlControls.HtmlInputText txtEmail;
-        
+
         /// <summary>
         /// Control txtAsunto.
         /// </summary>
@@ -38,7 +40,7 @@ namespace Estudio_Arbizu_Azure {
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
         protected global::System.Web.UI.HtmlControls.HtmlInputText txtAsunto;
-        
+
         /// <summary>
         /// Control txtMensaje.
         /// </summary>
@@ -47,7 +49,7 @@ namespace Estudio_Arbizu_Azure {
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
         protected global::System.Web.UI.HtmlControls.HtmlTextArea txtMensaje;
-        
+
         /// <summary>
         /// Control btnEnviar.
         /// </summary>

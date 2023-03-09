@@ -9,7 +9,7 @@
     <IISExpressUseClassicPipelineMode />
     <UseGlobalApplicationHostFile />
     <LastActiveSolutionConfig>Debug|Any CPU</LastActiveSolutionConfig>
-    <NameOfLastUsedPublishProfile>C:\Users\Usuario\source\repos\Estudio_Arbizu_Prod\Estudio-Arbizu-Azure\Estudio-Arbizu-Azure\Properties\PublishProfiles\estudioarbizudos - Web Deploy.pubxml</NameOfLastUsedPublishProfile>
+    <NameOfLastUsedPublishProfile>C:\Users\Usuario\source\repos\Estudio_Arbizu_Prod\Estudio-Arbizu-Azure\Estudio-Arbizu-Azure\Properties\PublishProfiles\estudioarbizu - Web Deploy.pubxml</NameOfLastUsedPublishProfile>
   </PropertyGroup>
   <ProjectExtensions>
     <VisualStudio>

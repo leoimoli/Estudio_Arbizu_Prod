@@ -32,6 +32,15 @@
     <script src="js/jquery.actual.min.js"></script>
     <script src="js/main.js"></script>
     <script src="js/parametros.js"></script>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-XT0LSZ2P8R"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'G-XT0LSZ2P8R');
+    </script>
 </head>
 <body>
     <div id="wrapper">
@@ -268,6 +277,96 @@
                     </div>
                 </div>
             </div>
+             <!--NOTICIA -4-->
+            <div class="row post">
+                <div class="main_content">
+                    <div class="post-thumbnail col-md-5">
+                        <div class="frame">
+                            <div class="post-format">
+                                <span class="icon-picture">
+                                    <i class="fa fa-laptop"></i>
+                                </span>
+                            </div>
+                            <a href="https://www.apronline.gob.ar/index.php?modulo=noticias&noticia=61">
+                                <img class="img-responsive" src="img/Noticias/APR-Site.png" alt="" /></a>
+                        </div>
+                        <img class="hidden-xs post-shadow" src="img/post-shadow.png" alt="" />
+                    </div>
+                    <div class="post-excerpt col-md-7">
+                        <h2 class="title"><a href="#">Tasa por Inspección de Seguridad e Higiene</a></h2>
+                        <div class="line-dotted"></div>
+                        <p>
+                           El 31 de marzo concluye el plazo para que los contribuyentes de la Tasa por Inspección de Seguridad e Higiene se puedan adherir al Plan de Regularización de deuda con descuentos de hasta el 75% en multas, intereses y recargos.<a href="https://www.apronline.gob.ar/index.php?modulo=noticias&noticia=61">...Leer Más</a>
+                        </p>
+                        <div class="line-dotted"></div>
+                        <p class="meta">
+                            <strong>Fecha:</strong> 09/Marzo/2023 <strong>Por:</strong> Romina Arbizu <strong>Enlace: </strong><a href="https://www.apronline.gob.ar/index.php?modulo=noticias&noticia=61">APR</a>
+                        </p>
+                        <div class="line-dotted"></div>
+                    </div>
+                </div>
+            </div>
+            <!--NOTICIA -3-->
+            <div class="row post">
+                <div class="main_content">
+                    <div class="post-thumbnail col-md-5">
+                        <div class="frame">
+                            <div class="post-format">
+                                <span class="icon-picture">
+                                    <i class="fa fa-laptop"></i>
+                                </span>
+                            </div>
+                            <a href="https://www.afip.gob.ar/casasparticulares/categorias-y-remuneraciones/documentos/2023/casas-particulares-remuneraciones-03-23.pdf">
+                                <img class="img-responsive" src="img/Noticias/Casas-Particulares-Marzo2023.png" alt="" /></a>
+                        </div>
+                        <img class="hidden-xs post-shadow" src="img/post-shadow.png" alt="" />
+                    </div>
+                    <div class="post-excerpt col-md-7">
+                        <h2 class="title"><a href="#">Casas particulares nuevos valores marzo 2023</a></h2>
+                        <div class="line-dotted"></div>
+                        <p>
+                            Desde marzo 2023 rigen nuevos valores mínimos para cada uno de las categorías de empleados de casas particulares, de acuerdo a lo establecido en la Resolución General 06/2022 de la Administración General de Ingresos Publicos AFIP<a href="https://www.afip.gob.ar/casasparticulares/categorias-y-remuneraciones/documentos/2023/casas-particulares-remuneraciones-03-23.pdf">...Leer Más</a>
+                        </p>
+                        <div class="line-dotted"></div>
+                        <p class="meta">
+                            <strong>Fecha:</strong> 27/Febrero/2023 <strong>Por:</strong> Romina Arbizu <strong>Enlace: </strong><a href="https://www.afip.gob.ar/casasparticulares/categorias-y-remuneraciones/documentos/2023/casas-particulares-remuneraciones-03-23.pdf">Afip</a>
+                        </p>
+                        <div class="line-dotted"></div>
+                    </div>
+                </div>
+            </div>
+            <!--NOTICIA -2-->
+            <div class="row post">
+                <div class="main_content">
+                    <div class="post-thumbnail col-md-5">
+                        <div class="frame">
+                            <div class="post-format">
+                                <span class="icon-picture">
+                                    <i class="fa fa-laptop"></i>
+                                </span>
+                            </div>
+                            <a href="https://servicioscf.afip.gob.ar/publico/sitio/contenido/novedad/ver.aspx?id=2061">
+                                <img class="img-responsive" src="img/Noticias/Reintegro-a-consumidores-finales-carniceria.png" alt="" /></a>
+                        </div>
+                        <img class="hidden-xs post-shadow" src="img/post-shadow.png" alt="" />
+                    </div>
+                    <div class="post-excerpt col-md-7">
+                        <h2 class="title"><a href="#">Reintegro a consumidores finales</a></h2>
+                        <div class="line-dotted"></div>
+                        <p>
+                            La Administración Federal de Ingresos Públicos (AFIP), mediante la Resolución General Nº 5330/2023, reglamentó un régimen de reintegro a consumidores finales, hasta el 31 de diciembre 2023, del 10% de las compras que realicen con tarjetas de débito o con débito en cuenta mediante la utilización de códigos QR, en los comercios adheridos al “Registro de carnicerías”.
+                            El reintegro se efectuará mediante la entidad bancaria o el prestador de servicios de pago interviniente, dentro de las 96 horas de realizada la compra, detallando en el resumen de cuenta, cada acreditación para que el usuario pueda visualizarlo.
+                            Las devoluciones tendrán un tope máximo de $2.000 por mes y beneficiario.
+                         <a href="https://servicioscf.afip.gob.ar/publico/sitio/contenido/novedad/ver.aspx?id=2061">...Leer Más</a>
+                        </p>
+                        <div class="line-dotted"></div>
+                        <p class="meta">
+                            <strong>Fecha:</strong> 17/Febrero/2023 <strong>Por:</strong> Romina Arbizu <strong>Enlace: </strong><a href="https://servicioscf.afip.gob.ar/publico/sitio/contenido/novedad/ver.aspx?id=2061">Afip</a>
+                        </p>
+                        <div class="line-dotted"></div>
+                    </div>
+                </div>
+            </div>
             <!--NOTICIA -1-->
             <div class="row post">
                 <div class="main_content">
@@ -437,7 +536,7 @@ Las herramientas con fines educativos, por su parte, son definidas como los úti
                     </div>
                 </div>
             </div>
-            <!--NOTICIA 3-->
+            <%--  <!--NOTICIA 3-->
             <div class="row post">
                 <div class="main_content">
                     <div class="post-thumbnail col-md-5">
@@ -470,7 +569,7 @@ Las herramientas con fines educativos, por su parte, son definidas como los úti
                         <div class="line-dotted"></div>
                     </div>
                 </div>
-            </div>
+            </div>--%>
         </div>
         <!-- container -->
     </section>

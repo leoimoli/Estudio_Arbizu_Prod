@@ -143,4 +143,4 @@ C:\Users\Usuario\source\repos\Estudio_Arbizu_Prod\Estudio-Arbizu-Azure\Estudio-A
 C:\Users\Usuario\source\repos\Estudio_Arbizu_Prod\Estudio-Arbizu-Azure\Estudio-Arbizu-Azure\obj\Debug\Estudio-Arbizu-Azure.csproj.CopyComplete
 C:\Users\Usuario\source\repos\Estudio_Arbizu_Prod\Estudio-Arbizu-Azure\Estudio-Arbizu-Azure\obj\Debug\Estudio-Arbizu-Azure.dll
 C:\Users\Usuario\source\repos\Estudio_Arbizu_Prod\Estudio-Arbizu-Azure\Estudio-Arbizu-Azure\obj\Debug\Estudio-Arbizu-Azure.pdb
-C:\Users\Usuario\source\repos\Estudio_Arbizu_Prod\Estudio-Arbizu-Azure\Estudio-Arbizu-Azure\obj\Debug\Estudio-Arbizu-Azure.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Estudio_Arbizu_Prod\Estudio-Arbizu-Azure\Estudio-Arbizu-Azure\obj\Debug\Estudio-Arbizu-Azure.csproj.AssemblyReference.cache
